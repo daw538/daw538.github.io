@@ -2,33 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://mathematics.exeter.ac.uk/research/'>University of Exeter</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: personal_pic.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>North Park Road,</p>
+    <p>University of Exeter</p>
+    <p>Exeter, Devon</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Postdoctoral Research Associate working with [Cyril Morcrette](https://experts.exeter.ac.uk/39395-cyril-morcrette) and [Jim Haywood](https://experts.exeter.ac.uk/18842-james-haywood) as part of the project Quantifying and Reducing aviation Contrail radiative forcing ([QR-CODE](https://gotw.nerc.ac.uk/list_full.asp?pcode=NE%2FZ503800%2F1)). QR-CODE forms part of a larger tranche of projects funded by NERC's Jet Zero programme, a series of projects investigating different ways of reducing the climate impacts of non-CO2 effects (those not directly from fuel burning) by the aviation industry. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+As part of my research I will be aiming to better understand the environmental conditions that lead to contrail formation (the white clouds that come out the back of a plane), with the ambition that by doing so we can reduce the impact they have on the environment through possible schemes for rerouting flights. Contrails are important to research since they contribute a net-warming to the climate system in cool, moist conditions where the contrail persists for a long time after formation.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+Previously I was a PhD student investigating the climates and atmospheres of moist terrestrial (Earth-like) planets, under the supervision of Prof. [Geoffrey Vallis](http://emps.exeter.ac.uk/mathematics/staff/gv219), Dr. [William Seviour](http://emps.exeter.ac.uk/mathematics/staff/ws359) and Dr. [Stephen Thomson](http://emps.exeter.ac.uk/mathematics/staff/sit204). My research involved using 3D climate models such as Isca to understand cloudy aquaplanets along with the hydrological cycle and greenhouse effect of tidally locked planets.
+
