@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://daw538.github.io//sitemap.xml
+Sitemap: https://daw538.github.io/sitemap.xml
