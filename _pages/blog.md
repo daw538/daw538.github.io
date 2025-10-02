@@ -4,11 +4,12 @@ permalink: /blog/
 title: blog
 nav: true
 nav_order: 1
+published: false
 pagination:
   enabled: true
   collection: posts
   permalink: /page/:num/
-  per_page: 5
+  per_page: 15
   sort_field: date
   sort_reverse: true
   trail:
