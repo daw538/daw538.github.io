@@ -1,11 +1,11 @@
 "ApJ":
   url: https://iopscience.iop.org/journal/0004-637X
-  color: "#512DA8"
+  color: "#a05701"
 
 "GCB":
   url: https://onlinelibrary.wiley.com/journal/13652486
-  color: "#558B2F"
+  color: "#9f8800"
 
 "Weather":
   url: https://rmets.onlinelibrary.wiley.com/journal/14778696
-  color: "#5C6BC0"
+  color: "#005460"
